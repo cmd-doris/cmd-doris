@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**cmd-doris/cmd-doris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Patrik, a developer based in Stockholm, Sweden.
 
-Here are some ideas to get you started:
+I work in the PaymentIQ Provider Integration team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <a href="skype:patrikepiq?chat">
+    <img src="https://img.shields.io/badge/SKYPE-000?style=for-the-badge&logo=skype" target="_blank" />
+  </a>
+  <a href="https://bambora.slack.com/team/U019VJF622X">
+    <img src="https://img.shields.io/badge/SLACK-000?style=for-the-badge&logo=slack" target="_blank" />
+  </a>
+  <br/>
+  <a href="mailto:patrik.erman@worldline.com">
+    <img src="https://img.shields.io/badge/OUTLOOK-000?style=for-the-badge&logo=microsoftoutlook" target="_blank" />
+  </a>
+  
+</div>
