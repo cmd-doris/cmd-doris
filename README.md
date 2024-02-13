@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://api.visitorbadge.io/api/visitors?path=cmd-doris&label=views&labelColor=%23000000&countColor=%234d4dff&style=plastic" />
+</div>
+
 ### Hi there 👋
 
 I am Patrik, a developer based in Stockholm, Sweden.
