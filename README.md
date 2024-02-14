@@ -15,7 +15,7 @@ I work in the PaymentIQ Provider Integration team.
   </a>
   <br/>
   <a href="mailto:patrik.erman@worldline.com">
-    <img src="https://img.shields.io/badge/OUTLOOK-000?style=for-the-badge&logo=microsoftoutlook" target="_blank" />
+    <img src="https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=microsoftoutlook" target="_blank" />
   </a>
   
 </div>
